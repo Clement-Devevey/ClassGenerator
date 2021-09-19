@@ -13,3 +13,11 @@ Il est possible de
 - Enregister les fichiers .h et .cpp avec l'interface graphique qui va bien.
 
 Voici à quoi ressemble l'interface :
+
+![alt text](https://github.com/Clement-Devevey/ClassGenerator/blob/master/images/ClassGeneratorUn.png?raw=true)
+
+- Si on clique sur générer :
+![alt text](https://github.com/Clement-Devevey/ClassGenerator/blob/master/images/cpp.png?raw=true)
+
+- L'onglet cpp :
+![alt text](https://github.com/Clement-Devevey/ClassGenerator/blob/master/images/fichierH.png)
