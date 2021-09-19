@@ -1,5 +1,5 @@
 # ClassGenerator
-sujet OpenClassRoom : 
+sujet OpenClassRoom :  https://openclassrooms.com/fr/courses/1894236-programmez-avec-le-langage-c/1900961-tp-zeroclassgenerator
 
 - Logiciel graphique permettant de générer le fichier .cpp et .h d'une classe.
 
