@@ -10,3 +10,4 @@ Il est possible de
 - Ajouter des headers à inclure
 - Ajouter des attributs (Les setters et getters seront générés automatiquement)
 - Ajouter un commentaire avec le nom de l'auteur, la date de création, l'explication de la classe.
+- Enregister les fichiers .h et .cpp avec l'interface graphique qui va bien.
