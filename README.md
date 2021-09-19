@@ -6,7 +6,7 @@ sujet OpenClassRoom :  https://openclassrooms.com/fr/courses/1894236-programmez-
 Il est possible de 
 
 - Renseigner le nom de classe ainsi que le nom de la classe mère (si on en veut une, sinon laissez vide)
-- Protéger le header avec un #ifdef
+- Protéger le header avec un #ifndef
 - Générer le constructeur / destructeur.
 - Ajouter des headers à inclure
 - Ajouter des attributs : de la forme "type nom" (Les setters et getters seront générés automatiquement)
