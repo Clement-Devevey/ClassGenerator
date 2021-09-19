@@ -18,8 +18,9 @@ Voici à quoi ressemble l'interface :
 
 - Si on clique sur générer :
 
-![alt text](https://github.com/Clement-Devevey/ClassGenerator/blob/master/images/cpp.png?raw=true)
+![alt text](https://github.com/Clement-Devevey/ClassGenerator/blob/master/images/fichierH.png?raw=true)
+
 
 - L'onglet cpp :
 
-![alt text](https://github.com/Clement-Devevey/ClassGenerator/blob/master/images/fichierH.png)
+![alt text](https://github.com/Clement-Devevey/ClassGenerator/blob/master/images/cpp.png?raw=true)
