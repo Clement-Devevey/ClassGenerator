@@ -146,7 +146,7 @@ void fenPrincipal::slot_generer()
 
     if(commentaires->isChecked())
     {
-        code += "/*\nAuteur : " + nom->text() + "\n";
+        code += "/*\nAuteur : " + auteur->text() + "\n";
         code += "Date de création : " + date->date().toString() + "\n"+ "\n";
         code += "Role : \n" + role->toPlainText() + "\n*/ \n";
     }
@@ -225,7 +225,7 @@ void fenPrincipal::slot_generer()
             s_nom_upper->replace(0, 1, s_nom->toUpper().remove(1, s_nom->size()));
 
             code += "\n       "  + *type + " get" + *s_nom_upper + "() { return this." + *s_nom + "; }";
-            code += "\n       void set" + *s_nom_upper + "(" + type + " " + *s_nom + ") { this." + *s_nom + " = " + *s_nom + "; }";
+            code += "\n       void set" + *s_nom_upper + "(" + *type + " " + *s_nom + ") { this." + *s_nom + " = " + *s_nom + "; }";
 
             delete s_nom_upper;
         }
