@@ -3,7 +3,7 @@ sujet OpenClassRoom :  https://openclassrooms.com/fr/courses/1894236-programmez-
 
 - Logiciel graphique permettant de générer le fichier .cpp et .h d'une classe.
 Le fichier exécutable est disponible sous le dossier Windows_exe, sous le nom ClassGenerator.exe.
-/!\ Vous devez télécharger le dossier entier, sinon l'exécutable ne se lancera et il se plaindra de ne pas trouver ses copains dll. /!\
+/!\ Vous devez télécharger le dossier entier, sinon l'exécutable ne se lancera pas et il se plaindra de ne pas trouver ses copains dll. /!\
 
 Il est possible de 
 
